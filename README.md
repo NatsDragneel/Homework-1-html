@@ -1,2 +1,2 @@
-# Homework-1-html
+# Homeworks-html
 this is the first homework from html course
